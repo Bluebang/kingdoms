@@ -1,0 +1,28 @@
+{
+  "ver": "1.0.0",
+  "uuid": "34f9514e-c4f5-48d7-b799-bbaff2a0aedf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "TWITTER_MYNOCK@2x": {
+      "ver": "1.0.2",
+      "uuid": "bf364d43-f91d-4215-837a-00da23ccd4b1",
+      "rawTextureUuid": "34f9514e-c4f5-48d7-b799-bbaff2a0aedf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 150,
+      "height": 150,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

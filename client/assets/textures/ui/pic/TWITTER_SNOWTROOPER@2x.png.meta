@@ -1,0 +1,28 @@
+{
+  "ver": "1.0.0",
+  "uuid": "007bbe46-6da4-4585-9706-fc9b30ccf612",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "TWITTER_SNOWTROOPER@2x": {
+      "ver": "1.0.2",
+      "uuid": "84a815c4-1ad7-481a-b938-42fc38cd8977",
+      "rawTextureUuid": "007bbe46-6da4-4585-9706-fc9b30ccf612",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 150,
+      "height": 150,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

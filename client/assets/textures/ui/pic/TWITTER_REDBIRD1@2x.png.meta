@@ -1,0 +1,28 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6cc3aa29-a356-4c84-98a7-de79b739d235",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "TWITTER_REDBIRD1@2x": {
+      "ver": "1.0.2",
+      "uuid": "302f502c-708e-40ee-8e86-f01d9760a3be",
+      "rawTextureUuid": "6cc3aa29-a356-4c84-98a7-de79b739d235",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 150,
+      "height": 150,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

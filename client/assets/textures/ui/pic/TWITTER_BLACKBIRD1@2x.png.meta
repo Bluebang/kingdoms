@@ -1,0 +1,28 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e189cd53-216a-4d53-9065-0457aec9a792",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "TWITTER_BLACKBIRD1@2x": {
+      "ver": "1.0.2",
+      "uuid": "0cbc8430-1b09-4c32-a756-6174224b9a95",
+      "rawTextureUuid": "e189cd53-216a-4d53-9065-0457aec9a792",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 150,
+      "height": 150,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

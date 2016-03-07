@@ -1,0 +1,28 @@
+{
+  "ver": "1.0.0",
+  "uuid": "13285dc2-8931-4709-8c77-5b9e9dfebdef",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "TWITTER_DAGOBAHCOMPLETED@2x": {
+      "ver": "1.0.2",
+      "uuid": "aa49d5a4-6561-4539-bbeb-5fa9e330a9d0",
+      "rawTextureUuid": "13285dc2-8931-4709-8c77-5b9e9dfebdef",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 150,
+      "height": 150,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

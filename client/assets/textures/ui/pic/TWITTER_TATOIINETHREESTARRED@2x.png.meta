@@ -1,0 +1,28 @@
+{
+  "ver": "1.0.0",
+  "uuid": "debf41fd-c3a5-46c6-b619-80a0a814b82d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "TWITTER_TATOIINETHREESTARRED@2x": {
+      "ver": "1.0.2",
+      "uuid": "069189e2-6c11-4a05-9b37-dfc4e7d37293",
+      "rawTextureUuid": "debf41fd-c3a5-46c6-b619-80a0a814b82d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 150,
+      "height": 150,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
